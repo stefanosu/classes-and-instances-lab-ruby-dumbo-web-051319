@@ -1,0 +1,4 @@
+class Dog 
+  fido 
+    
+end
